@@ -8,8 +8,6 @@ It allows you to:
 - 💾 Keep your progress saved locally with **LocalStorage**.
 - ⚡ Built with **React + TailwindCSS** for speed and simplicity.
 
----
-
 ## 🚀 Features
 
 - **Weight Tracker Page**: Log your weight along with the date and view your history.
@@ -17,14 +15,10 @@ It allows you to:
 - **Navigation**: Easy switch between pages using React Router.
 - **Persistence**: Your data stays even after refreshing (saved in LocalStorage).
 
----
-
 ## 🛠️ Tech Stack
 
 - React
 - React Router
-
----
 
 ## ▶️ Getting Started
 
