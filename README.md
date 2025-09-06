@@ -1,12 +1,58 @@
-# React + Vite
+# FitChronos 🏋️‍♂️⏱️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FitChronos is a lightweight fitness companion app designed to help you stay consistent with your training.  
+It allows you to:
 
-Currently, two official plugins are available:
+- 📊 Track your **daily morning weight**.
+- ⏱️ Create and manage **countdown timers** for your workout rest periods.
+- 💾 Keep your progress saved locally with **LocalStorage**.
+- ⚡ Built with **React + TailwindCSS** for speed and simplicity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Weight Tracker Page**: Log your weight along with the date and view your history.
+- **Timers Page**: Add multiple countdown timers with start, pause, and reset controls.
+- **Navigation**: Easy switch between pages using React Router.
+- **Persistence**: Your data stays even after refreshing (saved in LocalStorage).
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- React Router
+
+---
+
+## ▶️ Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Espadv69/FitChronos.git
+cd FitChronos
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the app:
+
+```bash
+npm run dev
+```
+
+## 📌 Future Improvements
+
+- Export weight history as CSV.
+- Add notifications when timers finish.
+- Dark mode support.
+
+## 👤 Author
+
+Created with 💪 by Espadv69
